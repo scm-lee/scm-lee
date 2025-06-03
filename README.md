@@ -26,10 +26,13 @@ _このテキストgithub markdownの練習です_\
 > text that is not a quote
 
 # コードの引用
-Use `git status` to list all new or modified files that haven't yet been committed.
+Use `git status` to list all new or modified files that haven't yet been committed.\
 Some basic Git commands are:
 ```
 git status
 git add
 git commit
 ```
+
+# サポートされているカラーモデル
+
