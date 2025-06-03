@@ -118,3 +118,9 @@ A footnote can also have multiple lines[^2].
 | ------------ | ------------- |
 | Content cell | Content cell  |
 | Content cell | Content cell  |
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+| link of git table | [git table](https://docs.github.com/ja/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) |
