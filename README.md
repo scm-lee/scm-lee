@@ -134,3 +134,18 @@ A footnote can also have multiple lines[^2].
 | --- | --- |
 | Backtick | ` |
 | Pipe | \| |
+
+# セクションを折りたたんで情報を整理する
+<details>
+   <summary>Tips for collapsed sections</summary>
+
+   ### You can add a header
+
+   Youy can add text within a collapsed section.
+
+   You can add an image or a code block, too.
+
+   ```ruby
+      puts "Hellow World"
+   ```
+</details>
