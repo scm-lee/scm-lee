@@ -161,3 +161,13 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hellow World")
 puts markdown.to_html
 ```
+# ダイアグラム作成
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+   A-->B;
+   A-->C;
+   B-->D;
+   C-->D;
+```
