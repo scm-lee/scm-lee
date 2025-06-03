@@ -129,3 +129,8 @@ A footnote can also have multiple lines[^2].
 | :---          |      :--:      |          ---: |
 | git status    | git status     | git status    |
 | git diff    | git diff     | git diff |
+
+| Name | Character |
+| --- | --- |
+| Backtick | ` |
+| Pipe | \| |
