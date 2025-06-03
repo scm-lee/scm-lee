@@ -57,3 +57,7 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 (… more content…)
 
 [A link to that custom anchor](#my-custom-anchor-point)
+
+# 画像
+色々なブランチが必要なのでリンクにする
+[画像についてのGitHubリンク](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images).
