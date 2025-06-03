@@ -84,3 +84,11 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 この項目はGitHubのリンクにしておきます\
 [人やTeamのメンション](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#mentioning-people-and-teams).
 
+# 脚注
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, profix new lines with 2 spaces.
+  This is a second line.
