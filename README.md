@@ -112,3 +112,9 @@ A footnote can also have multiple lines[^2].
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of actions.
+
+# テーブルの作成
+| First Header | Second Header |
+| ------------ | ------------- |
+| Content cell | Content cell  |
+| Content cell | Content cell  |
