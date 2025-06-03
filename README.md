@@ -149,3 +149,10 @@ A footnote can also have multiple lines[^2].
       puts "Hellow World"
    ```
 </details>
+
+# コードブロックの作成と強調表示
+```
+function test() {
+   console.log("notice the blank line before this function?");
+}
+```
