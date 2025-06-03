@@ -79,3 +79,8 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada: 
+
+# 人やTeamのメンション
+この項目はGitHubのリンクにしておきます\
+[人やTeamのメンション](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#mentioning-people-and-teams).
+
