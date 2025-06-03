@@ -11,7 +11,7 @@ scm-lee/scm-lee is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-#テキストのスタイル設定
+# テキストのスタイル設定
 
 **このテキストgithub markdownの練習です**\
 _このテキストgithub markdownの練習です_\
@@ -23,6 +23,7 @@ _このテキストgithub markdownの練習です_\
 
 # テキストの引用
 
+> text that is not a quote
 
 
 
