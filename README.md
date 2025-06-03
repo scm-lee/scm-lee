@@ -13,6 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 テキストのスタイル設定
 
-**このテキストは斜体です**
-_このテキストは斜体です_
-〜〜このテキストは斜体です〜〜
+**このテキストgithub markdownの練習です**
+_このテキストgithub markdownの練習です_
+~~このテキストgithub markdownの練習です~~
+**このテキストgithub markdownの練習です**
+***このテキストgithub markdownの練習です***
+このテキスト<sub>github markdowns</sub>の練習です
