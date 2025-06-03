@@ -73,5 +73,5 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 
 
 1. First list itme
-  -First nested list itme
-   -Second nested list itme
+   - First nested list itme
+     - Second nested list itme
