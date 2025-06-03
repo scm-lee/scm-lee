@@ -35,7 +35,10 @@ git commit
 ```
 
 # サポートされているカラーモデル
-The background color is `#ffffff` for light mode and `#000000` for dark mode.\
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 # リンク
 This site was built using [GitHub Pages](https://pages.github.com/).
+
+# セクションリンク
+Link to the sample section: [Link Text](#sample-section).
