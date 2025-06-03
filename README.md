@@ -203,3 +203,5 @@ graph TD;
 ]
 }
 ```
+これ以外も沢山ありますので、参照してほしいです。
+[ダイアグラムなど色々な表を作成する方法](https://docs.github.com/ja/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams).
