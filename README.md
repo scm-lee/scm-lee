@@ -41,5 +41,8 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 # セクションリンク
-Link to the sample section: [Link Text](#sample-section).
+Link to the sample section: [Link Text](#sample-section).\
 Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
+
+# 相対リンク
+[Contribution guidelines for this project](doc/CONTRIBUTING.md).
