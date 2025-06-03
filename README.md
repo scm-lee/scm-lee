@@ -11,6 +11,10 @@ scm-lee/scm-lee is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+# GitHub markdown
+以下のリンクはGitHub markdownについての理解を深めるため用意します\
+[GitHub markdown](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
 # テキストのスタイル設定
 
 **このテキストgithub markdownの練習です**\
