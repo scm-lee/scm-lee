@@ -156,3 +156,8 @@ function test() {
    console.log("notice the blank line before this function?");
 }
 ```
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hellow World")
+puts markdown.to_html
+```
